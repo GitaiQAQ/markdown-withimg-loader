@@ -1,0 +1,12 @@
+{
+  "name": "demo",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "dependencies": {
+    "file-loader": "^4.1.0",
+    "marked-frontmatter-loader": "^0.0.1",
+    "url-loader": "^2.1.0"
+  }
+}
